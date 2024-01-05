@@ -1,0 +1,26 @@
+{
+  "name": "js-web-crawler",
+  "version": "1.0.0",
+  "description": "A web crawler in js made as a guided project for Boot.dev",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ric-ram/js-web-crawler.git"
+  },
+  "author": "Ricardo Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ric-ram/js-web-crawler/issues"
+  },
+  "homepage": "https://github.com/ric-ram/js-web-crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
